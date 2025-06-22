@@ -4,3 +4,4 @@ This is a basic Java program called Student Grade Calculator. It helps to calcul
 How To Use:
 <br>
 To use this project, you need to run the Java file in your terminal or any Java IDE like Eclipse or VS Code. The program will ask you to enter student details and subject marks. After that, it will calculate the total, average, and show the grade based on the average. This is a simple console-based project for beginners who are learning Java.
+Created By : Sudhakar Tripathi
